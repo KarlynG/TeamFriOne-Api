@@ -1,0 +1,17 @@
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\bin\Debug\net6.0\TeamFriOne-Model.deps.json
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\bin\Debug\net6.0\TeamFriOne-Model.runtimeconfig.json
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\bin\Debug\net6.0\TeamFriOne-Model.dll
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\bin\Debug\net6.0\TeamFriOne-Model.pdb
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\bin\Debug\net6.0\TeamFriOne-Core.dll
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\bin\Debug\net6.0\TeamFriOne-Core.pdb
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\obj\Debug\net6.0\TeamFriOne-Model.csproj.AssemblyReference.cache
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\obj\Debug\net6.0\TeamFriOne-Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\obj\Debug\net6.0\TeamFriOne-Model.AssemblyInfoInputs.cache
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\obj\Debug\net6.0\TeamFriOne-Model.AssemblyInfo.cs
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\obj\Debug\net6.0\TeamFriOne-Model.csproj.CoreCompileInputs.cache
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\obj\Debug\net6.0\TeamFriOne-Model.csproj.CopyComplete
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\obj\Debug\net6.0\TeamFriOne-Model.dll
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\obj\Debug\net6.0\refint\TeamFriOne-Model.dll
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\obj\Debug\net6.0\TeamFriOne-Model.pdb
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\obj\Debug\net6.0\TeamFriOne-Model.genruntimeconfig.cache
+C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Model\obj\Debug\net6.0\ref\TeamFriOne-Model.dll

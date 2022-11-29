@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using TeamFriOne_Infrastructure.Services;
+//using TeamFriOne_Infrastructure.Services;
 using TeamFriOne_Model.Context;
 using TeamFriOne_Model.Repositories;
 
@@ -13,7 +13,7 @@ builder.Services.AddTransient<IUserRepository, UserRepository>();
 #endregion
 
 #region services
-builder.Services.AddTransient<IUserService, UserService>();
+//builder.Services.AddTransient<IUserService, UserService>();
 #endregion
 
 builder.Services.AddControllers();
