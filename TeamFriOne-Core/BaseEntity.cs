@@ -1,8 +1,13 @@
 ﻿namespace TeamFriOne_Core
 {
-    public class BaseEntity
+    public interface IBaseEntity
     {
-        public int Id { get; set; }
-        public bool Deleted { get; set; }
+        int Id { get; set; }
+        bool Deleted { get; set; }
+    }
+    public class BaseEntity : IBaseEntity
+    {
+        public virtual int Id { get; set; }
+        public virtual bool Deleted { get; set; }
     }
 }

@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-//using TeamFriOne_Infrastructure.Services;
+using TeamFriOne_Infrastructure.Services;
 using TeamFriOne_Model.Context;
 using TeamFriOne_Model.Repositories;
 
@@ -9,11 +9,16 @@ var builder = WebApplication.CreateBuilder(args);
 
 #region repository
 builder.Services.AddTransient<IUserRepository, UserRepository>();
+builder.Services.AddTransient<IVacationRepository, VacationRepository>();
+builder.Services.AddTransient<IPayrollRepository, PayrollRepository>();
 
 #endregion
 
 #region services
-//builder.Services.AddTransient<IUserService, UserService>();
+builder.Services.AddTransient<IUserService, UserService>();
+builder.Services.AddTransient<IVacationService, VacationService>();
+builder.Services.AddTransient<IPayrollService, PayrollService>();
+
 #endregion
 
 builder.Services.AddControllers();
