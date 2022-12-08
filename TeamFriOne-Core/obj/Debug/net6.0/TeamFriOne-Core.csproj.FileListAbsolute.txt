@@ -10,3 +10,15 @@ C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Core\obj\Debug\net6.0\Team
 C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Core\obj\Debug\net6.0\refint\TeamFriOne-Core.dll
 C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Core\obj\Debug\net6.0\TeamFriOne-Core.pdb
 C:\Users\karly\source\repos\TeamFriOne-Api\TeamFriOne-Core\obj\Debug\net6.0\ref\TeamFriOne-Core.dll
+C:\Users\docri\Desktop\repos\TeamFriOne-Api\TeamFriOne-Core\obj\Debug\net6.0\TeamFriOne-Core.dll
+C:\Users\docri\Desktop\repos\TeamFriOne-Api\TeamFriOne-Core\obj\Debug\net6.0\refint\TeamFriOne-Core.dll
+C:\Users\docri\Desktop\repos\TeamFriOne-Api\TeamFriOne-Core\obj\Debug\net6.0\TeamFriOne-Core.pdb
+C:\Users\docri\Desktop\repos\TeamFriOne-Api\TeamFriOne-Core\bin\Debug\net6.0\TeamFriOne-Core.deps.json
+C:\Users\docri\Desktop\repos\TeamFriOne-Api\TeamFriOne-Core\bin\Debug\net6.0\TeamFriOne-Core.dll
+C:\Users\docri\Desktop\repos\TeamFriOne-Api\TeamFriOne-Core\bin\Debug\net6.0\TeamFriOne-Core.pdb
+C:\Users\docri\Desktop\repos\TeamFriOne-Api\TeamFriOne-Core\obj\Debug\net6.0\TeamFriOne-Core.csproj.AssemblyReference.cache
+C:\Users\docri\Desktop\repos\TeamFriOne-Api\TeamFriOne-Core\obj\Debug\net6.0\TeamFriOne-Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\docri\Desktop\repos\TeamFriOne-Api\TeamFriOne-Core\obj\Debug\net6.0\TeamFriOne-Core.AssemblyInfoInputs.cache
+C:\Users\docri\Desktop\repos\TeamFriOne-Api\TeamFriOne-Core\obj\Debug\net6.0\TeamFriOne-Core.AssemblyInfo.cs
+C:\Users\docri\Desktop\repos\TeamFriOne-Api\TeamFriOne-Core\obj\Debug\net6.0\TeamFriOne-Core.csproj.CoreCompileInputs.cache
+C:\Users\docri\Desktop\repos\TeamFriOne-Api\TeamFriOne-Core\obj\Debug\net6.0\ref\TeamFriOne-Core.dll
