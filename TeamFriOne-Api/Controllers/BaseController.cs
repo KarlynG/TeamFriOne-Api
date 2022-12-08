@@ -35,12 +35,6 @@ namespace TeamFriOne_Api.Controllers
             var result = await _service.AddAsync(entity);
             return Ok(result);
         }
-        [HttpPut]
-        public virtual async Task<IActionResult> Update(TEntity entity)
-        {
-            var result = await _service.UpdateAsync(entity);
-            return Ok(result);
-        }
 
         [HttpDelete("{id}")]
         public virtual async Task<IActionResult> Delete(int id)

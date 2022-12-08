@@ -8,7 +8,7 @@ namespace TeamFriOne_Model.Repositories
     {
         Task<TEntity> Add(TEntity entity);
         Task<TEntity> Delete(int id);
-        Task<TEntity> Update(int id, TEntity entity);
+        Task<TEntity> Update(TEntity entity);
         Task<TEntity> Get(int id);
         Task<List<TEntity>> GetAll();
     }

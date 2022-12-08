@@ -20,6 +20,29 @@ namespace TeamFriOne_Api.Controllers
             _vacationService = vacationService;
             _rollService = payrollService;
         }
+        [HttpPut]
+        public async Task<IActionResult> Update(int id, User newUser)
+        {
+            //Update User
+            var user = await _userService.GetByIdAsync(id);
+            if (user is null)
+                return NotFound();
+
+            user.PhoneNumber = newUser.PhoneNumber;
+            user.BirthDate = newUser.BirthDate;
+            user.Department = newUser.Department;
+            user.Charge = newUser.Charge;
+            user.Email = newUser.Email;
+            user.Name = newUser.Name;
+            user.LastName = newUser.LastName;
+            user.Password = newUser.Password;
+            user.Role = newUser.Role;
+            user.Identification = newUser.Identification;
+
+            await _userService.UpdateAsync(user);
+
+            return Ok(user);
+        }
         [HttpGet("{id}")]
         public override async Task<IActionResult> GetById(int id)
         {

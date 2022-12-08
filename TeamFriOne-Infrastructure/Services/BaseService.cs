@@ -6,7 +6,7 @@ namespace TeamFriOne_Infrastructure.Services
     public interface IBaseService<TEntity>
     {
         Task<TEntity> AddAsync(TEntity entity);
-        Task<TEntity> UpdateAsync(TEntity entity)
+        Task<TEntity> UpdateAsync(TEntity entity);
         Task<TEntity> DeleteAsync(int id);
         Task<TEntity> GetByIdAsync(int id);
         Task<List<TEntity>> GetAllAsync();
@@ -23,9 +23,9 @@ namespace TeamFriOne_Infrastructure.Services
         {
             return await _repository.Add(entity);
         }
-        public async Task<TEntity> UpdateAsync(TEntity entity)
+        public async Task<TEntity> UpdateAsync(TEntity newEntity)
         {
-            return await _repository.Update(entity);
+            return await _repository.Update(newEntity);
         }
 
         public async Task<TEntity> DeleteAsync(int id)
