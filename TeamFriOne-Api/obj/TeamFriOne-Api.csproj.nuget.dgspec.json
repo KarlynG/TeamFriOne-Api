@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Api\\TeamFriOne-Api.csproj": {}
+    "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Api\\TeamFriOne-Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Api\\TeamFriOne-Api.csproj": {
+    "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Api\\TeamFriOne-Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Api\\TeamFriOne-Api.csproj",
+        "projectUniqueName": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Api\\TeamFriOne-Api.csproj",
         "projectName": "TeamFriOne-Api",
-        "projectPath": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Api\\TeamFriOne-Api.csproj",
-        "packagesPath": "C:\\Users\\docri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Api\\obj\\",
+        "projectPath": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Api\\TeamFriOne-Api.csproj",
+        "packagesPath": "C:\\Users\\karly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\docri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karly\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +31,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Infrastructure\\TeamFriOne-Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Infrastructure\\TeamFriOne-Infrastructure.csproj"
+              "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Infrastructure\\TeamFriOne-Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Infrastructure\\TeamFriOne-Infrastructure.csproj"
               }
             }
           }
@@ -61,8 +64,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -74,21 +76,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Core\\TeamFriOne-Core.csproj": {
+    "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Core\\TeamFriOne-Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Core\\TeamFriOne-Core.csproj",
+        "projectUniqueName": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Core\\TeamFriOne-Core.csproj",
         "projectName": "TeamFriOne-Core",
-        "projectPath": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Core\\TeamFriOne-Core.csproj",
-        "packagesPath": "C:\\Users\\docri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Core\\obj\\",
+        "projectPath": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Core\\TeamFriOne-Core.csproj",
+        "packagesPath": "C:\\Users\\karly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\docri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karly\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -119,8 +124,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -129,21 +133,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Infrastructure\\TeamFriOne-Infrastructure.csproj": {
+    "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Infrastructure\\TeamFriOne-Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Infrastructure\\TeamFriOne-Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Infrastructure\\TeamFriOne-Infrastructure.csproj",
         "projectName": "TeamFriOne-Infrastructure",
-        "projectPath": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Infrastructure\\TeamFriOne-Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\docri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Infrastructure\\TeamFriOne-Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\karly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\docri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karly\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,8 +164,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Model\\TeamFriOne-Model.csproj": {
-                "projectPath": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Model\\TeamFriOne-Model.csproj"
+              "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Model\\TeamFriOne-Model.csproj": {
+                "projectPath": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Model\\TeamFriOne-Model.csproj"
               }
             }
           }
@@ -178,8 +185,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -188,21 +194,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Model\\TeamFriOne-Model.csproj": {
+    "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Model\\TeamFriOne-Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Model\\TeamFriOne-Model.csproj",
+        "projectUniqueName": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Model\\TeamFriOne-Model.csproj",
         "projectName": "TeamFriOne-Model",
-        "projectPath": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Model\\TeamFriOne-Model.csproj",
-        "packagesPath": "C:\\Users\\docri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Model\\obj\\",
+        "projectPath": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Model\\TeamFriOne-Model.csproj",
+        "packagesPath": "C:\\Users\\karly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\docri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karly\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -216,8 +225,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Core\\TeamFriOne-Core.csproj": {
-                "projectPath": "C:\\Users\\docri\\Desktop\\repos\\TeamFriOne-Api\\TeamFriOne-Core\\TeamFriOne-Core.csproj"
+              "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Core\\TeamFriOne-Core.csproj": {
+                "projectPath": "C:\\Users\\karly\\source\\repos\\TeamFriOne-Api\\TeamFriOne-Core\\TeamFriOne-Core.csproj"
               }
             }
           }
@@ -261,8 +270,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -271,7 +279,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
