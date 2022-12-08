@@ -8,6 +8,7 @@ namespace TeamFriOne_Model.Repositories
     {
         Task<TEntity> Add(TEntity entity);
         Task<TEntity> Delete(int id);
+        Task<TEntity> Update(int id, TEntity entity);
         Task<TEntity> Get(int id);
         Task<List<TEntity>> GetAll();
     }
@@ -25,6 +26,12 @@ namespace TeamFriOne_Model.Repositories
             var result = await _set.AddAsync(entity);
             await _context.SaveChangesAsync();
 
+            return result.Entity;
+        }
+        public async Task<TEntity> Update(TEntity entity)
+        {
+            var result = _set.Update(entity);
+            await _context.SaveChangesAsync();
             return result.Entity;
         }
 
